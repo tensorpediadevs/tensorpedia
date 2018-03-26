@@ -1,0 +1,2 @@
+# tensorpedia
+The Tensorpedia CLI
